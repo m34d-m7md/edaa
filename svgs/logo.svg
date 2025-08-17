@@ -1,0 +1,28 @@
+<svg viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+    <path 
+        d="M 0 -80 L 0 -40 M -20 -20 A 20 20 180 1 1 20 -20"
+        fill="none" 
+        stroke="black"
+        stroke-width="10"
+        stroke-linecap="round" />
+    <circle
+        cx="0"
+        cy="20"
+        r="40"
+        fill="#ffee00"
+        stroke="black"
+        stroke-width="10"
+        stroke-linecap="round" />
+    <path 
+        d="M -80 -20 L -60 -10 M -80 20 L -60 20 M -80 60 L -60 50"
+        fill="none"
+        stroke="black"
+        stroke-width="10"
+        stroke-linecap="round" />
+    <path
+        d="M 80 -20 L 60 -10 M 80 20 L 60 20 M 80 60 L 60 50"
+        fill="none"
+        stroke="black"
+        stroke-width="10"
+        stroke-linecap="round" />
+</svg>
